@@ -5,16 +5,16 @@
 
 
 ## Topics Covered
-What is LLM?
-SageMaker
-Textract and use cases ( Demo)
-    Pdf document to text with confidence score
-    Pdf table to text with confidence score
-Overview of Haystack + Mixtral model (Demo)
-    Web scraping + prompt template + Q & A
-    AP and CP websites
-    Video to + prompt template + Q & A
-Logs NLP Analysis - Not progressed
-Text to Image - Bedrock Titan 
-Case notes - NLP Analysis - Didnt get good ouput- lack of data
-Text summarisation , topic modelling, sentiment analy
+1. What is LLM?
+2. SageMaker
+3. Textract and use cases ( Demo)
+    a. Pdf document to text with confidence score
+    b. Pdf table to text with confidence score
+4. Overview of Haystack + Mixtral model (Demo)
+    a. Web scraping + prompt template + Q & A
+    b. AP and CP websites
+    c. Video to + prompt template + Q & A
+5. Logs NLP Analysis - Not progressed
+6. Text to Image - Bedrock Titan 
+7. Case notes - NLP Analysis - Didnt get good ouput- lack of data
+    Text summarisation , topic modelling, sentiment analy
